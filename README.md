@@ -1,2 +1,2 @@
 # AWS-Cert-Notes
-Notes from AWS Practitioner Exam Prep Course
+Notes from the AWS Practitioner Certification Exam Prep Course
